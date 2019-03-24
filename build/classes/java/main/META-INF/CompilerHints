@@ -1,0 +1,11 @@
+dontinline,*.*_all_jmhStub
+dontinline,*.*_avgt_jmhStub
+dontinline,*.*_sample_jmhStub
+dontinline,*.*_ss_jmhStub
+dontinline,*.*_thrpt_jmhStub
+inline,ai/play/devtech/testing/Benchmarks.arraySort
+inline,ai/play/devtech/testing/Benchmarks.collection
+inline,ai/play/devtech/testing/Benchmarks.loop
+inline,ai/play/devtech/testing/Benchmarks.parralelSort
+inline,ai/play/devtech/testing/Benchmarks.recursion
+inline,ai/play/devtech/testing/Benchmarks.setup
